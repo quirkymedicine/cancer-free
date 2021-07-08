@@ -1,4 +1,4 @@
-baseurl: "quirkymedicine.netlify.app"
+baseurl: ""
 languageCode: "en-us"
 title: "quirkymedicine"
 theme: "hugo-ivy"
