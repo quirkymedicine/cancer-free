@@ -1,4 +1,4 @@
-baseurl: ""
+baseurl: "test"
 languageCode: "en-us"
 title: "quirkymedicine"
 theme: "hugo-ivy"
@@ -9,7 +9,7 @@ footnotereturnlinkcontents: "↩"
 rssLimit: 100
 
 permalinks:
-  en: "/cancer-free/:year/:month/:slug/"
+  cancer-free: "/cancer-free/:year/:month/:slug/"
 
 menu:
   main:
