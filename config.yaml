@@ -1,4 +1,4 @@
-baseurl: "test"
+baseurl: "https://flamboyant-archimedes-92c45d.netlify.app/"
 languageCode: "en-us"
 title: "quirkymedicine"
 theme: "hugo-ivy"
@@ -13,12 +13,14 @@ permalinks:
 
 menu:
   main:
+    - name: "cancer-free"
+      url: "/cancer-free/"
+      weight: 1
+
+  cancer-free:
     - name: "Home"
       url: "/"
       weight: 1
-    - name: "cancer-free"
-      url: "/cancer-free/"
-      weight: 2
 
 params:
   description: "Quirky Medicine"
