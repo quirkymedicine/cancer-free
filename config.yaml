@@ -20,14 +20,6 @@ menu:
       url: "/cancer-free/"
       weight: 2
 
-  Cancer-free:
-    - name: "Home"
-      url: "/"
-      weight: 1
-    - name: "cancer-free"
-      url: "/cancer-free/"
-      weight: 2
-
 params:
   description: "Quirky Medicine"
   footer: "&copy; [fishycat](/) 2021 - 2021 | [GitHub](https://github.com/quirkymedicine) "
@@ -41,7 +33,6 @@ params:
     - "js/external-link.js"
     - "js/alt-title.js"
     - "js/header-link.js"
-  githubContentURL: "https://github.com/quirkymedicine/cancer-free/tree/master/content/"
 
   # options for highlight.js (version, additional languages, and theme)
   highlightjsVersion: "9.12.0"
