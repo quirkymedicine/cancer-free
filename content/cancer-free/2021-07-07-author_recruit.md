@@ -57,7 +57,7 @@ slug: authorrecruit
 <a href=https://mp.weixin.qq.com/s/xGkd5F56oj5W6MrVsyB48A target="_blank">《只要做一件事，就能远离这种癌症》</a>  
 <a href=https://mp.weixin.qq.com/s/P6Jbn9EKmX82uSNVxgvx7w target="_blank">《牛肉居然有潜在的致癌因子？还让不让人好好吃肉了》</a>  
 
-* 患者故事。一般都是患者和家属投稿。
+* 患者故事。一般都是患者和家属提供素材，我们的作者将之整理成文。
 
 <a href=https://mp.weixin.qq.com/s/niFA-ToJ_-GymHPquhm-8w target="_blank">《凤凰涅槃，浴火重生 —火凤凰姐姐抗癌小记》</a>  
 
