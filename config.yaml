@@ -1,0 +1,82 @@
+baseurl: "quirkymedicine.netlify.app"
+languageCode: "en-us"
+title: "quirkymedicine"
+theme: "hugo-ivy"
+ignoreFiles: ["\\.Rmd$", "\\.Rmarkdown$", "_cache$", "\\.knit\\.md$", "\\.utf8\\.md$"]
+hasCJKLanguage: true
+enableEmoji: true
+footnotereturnlinkcontents: "↩"
+rssLimit: 100
+
+permalinks:
+  en: "/cancer-free/:year/:month/:slug/"
+
+menu:
+  main:
+    - name: "Home"
+      url: "/"
+      weight: 1
+    - name: "cancer-free"
+      url: "/cancer-free/"
+      weight: 2
+
+  Cancer-free:
+    - name: "Home"
+      url: "/"
+      weight: 1
+    - name: "cancer-free"
+      url: "/cancer-free/"
+      weight: 2
+
+params:
+  description: "Quirky Medicine"
+  footer: "&copy; [fishycat](/) 2021 - 2021 | [GitHub](https://github.com/quirkymedicine) "
+  customJS:
+    - "js/fix-toc.js"
+    - "js/center-img.js"
+    - "js/right-quote.js"
+    - "js/no-highlight.js"
+    - "js/fix-footnote.js"
+    - "js/math-code.js"
+    - "js/external-link.js"
+    - "js/alt-title.js"
+    - "js/header-link.js"
+  githubContentURL: "https://github.com/quirkymedicine/cancer-free/tree/master/content/"
+
+  # options for highlight.js (version, additional languages, and theme)
+  highlightjsVersion: "9.12.0"
+  highlightjsCDN: "//cdnjs.cloudflare.com/ajax/libs"
+  highlightjsLang: ["r", "yaml", "tex"]
+  highlightjsTheme: "github"
+
+  logo:
+    en:
+      img: "/images/logo.jpg"
+      url: "/"
+      alt: "fishycat"
+      tag: ""
+
+  author:
+    en: "fishycat"
+    cn: "fishycat"
+
+  lang:
+    edit:
+      cn: "编辑"
+    license:
+      cn: "版权"
+    subscribe:
+      cn: "订阅"
+
+taxonomies:
+   tag : "tags"
+   category : "categories"
+
+markup:
+  defaultMarkdownHandler: blackFriday
+  blackFriday:
+    extensionsMask: ["noIntraEmphasis"]
+    fractions: false
+  goldmark:
+    renderer:
+      unsafe: true
