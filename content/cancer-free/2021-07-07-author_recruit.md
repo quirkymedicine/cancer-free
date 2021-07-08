@@ -59,8 +59,8 @@ slug: authorrecruit
 
 * 患者故事。一般都是患者和家属提供素材，我们的作者将之整理成文。这一类的稿件需求也不少。
 
-<a href=https://mp.weixin.qq.com/s/MUGZn8o7Qvmb4opuDoy3jQ target="_blank">《绝处逢生，让我能紧握妻子与女儿的手，继续人生的旅程》</a>   
-<a href=https://mp.weixin.qq.com/s/niFA-ToJ_-GymHPquhm-8w target="_blank">《凤凰涅槃，浴火重生 —火凤凰姐姐抗癌小记》</a>  
+<a href=https://mp.weixin.qq.com/s/fu50gXpXT8vXWtLAa2GuaA target="_blank">《抗癌路上，亲情和坚持是战胜肠癌的强效药》</a>   
+<a href=https://mp.weixin.qq.com/s/5IV_Ga_tAl945jDfwhUNSw target="_blank">《癌友分享：医生曾宣判的6个月生命，如今我已经历了5个》</a>  
 
 <a href="#header">⇜</a>
 
